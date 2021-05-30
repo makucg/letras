@@ -30,7 +30,7 @@ legend::before {
   content: '';
   width: calc(120% );
   display: block;
-  background-color:#EB6864;
+  background-color:#f3969a;
   height: 40px;
   z-index:-1;
   left: -30px;
