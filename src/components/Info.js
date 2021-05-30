@@ -8,7 +8,7 @@ const Info = ({informacion}) => {
 
     return ( 
         <div className="card border-light">
-            <h3 class="card-header bg-secondary text-light fw-bold">{strArtist}</h3>
+            <h3 className="card-header bg-secondary text-light fw-bold">{strArtist}</h3>
             <img src={strArtistThumb} className="card-img-top" alt={strArtist} />
             <div className="card-body">
                 <h2 className="card-title">Biografía</h2>
